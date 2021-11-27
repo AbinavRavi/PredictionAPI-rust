@@ -132,3 +132,7 @@ dmypy.json
 **/data/
 **.ipynb
 **/saved_models/
+
+# Added by cargo
+
+/target
